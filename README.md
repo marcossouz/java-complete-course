@@ -1,6 +1,7 @@
 # Java COMPLETO Programação Orientada a Objetos + Projetos
 
-Curso mais didático e completo de Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB e muito mais
+Java and OO course, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB and more. | 
+[course](https://www.udemy.com/share/1013hw3@Uagx_OYBGUZ6_hql1FYXyKpI0-rRPRLAG7AVPL8h7jBZiP7-czS6zmxKx030dvq1/)
 
 
 ## Course content 26 sections • 398 lessons • Total duration: 54h 14m
